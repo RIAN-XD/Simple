@@ -7,7 +7,7 @@ pip install requests
 pip install mechanize
 pip install rich
 git clone https://github.com/RIAN-XD/Simple
-
+````
 ### • jalankan SC •
 ````
 git pull
