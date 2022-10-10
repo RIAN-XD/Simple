@@ -1,22 +1,2 @@
-### • install bahan •
-````
-pkg update && pkg upgrade
-pkg install python
-pip install bs4
-pip install requests
-pip install mechanize
-pip install rich
-git clone https://github.com/RIAN-XD/Simple
-````
-### • jalankan SC •
-````
-git pull
-cd $HOME
-cd Simple
-python run.py
-````
+![](https://media.tenor.com/znjmPw_FF3sAAAAM/close.gif)
 
-### • donasi kuota coeg>< •
-````
-Pulsa/kuota : 085764058828
-````
