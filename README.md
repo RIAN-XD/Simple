@@ -1,2 +1,3 @@
-![](https://media.tenor.com/znjmPw_FF3sAAAAM/close.gif)
-
+script di tutup 
+--|
+![](https://c.tenor.com/PWXvVIbIkA4AAAAC/close-close-movie.gif)
